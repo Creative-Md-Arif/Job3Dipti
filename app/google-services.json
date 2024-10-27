@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799902208670",
+    "project_id": "job3diptiictamadl40401",
+    "storage_bucket": "job3diptiictamadl40401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799902208670:android:8150f03b5dd24cd903618f",
+        "android_client_info": {
+          "package_name": "com.example.job3diptiictamadl40401"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvT2EGPvZmnFHVo0dtHVLX1smV2eTjuuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
